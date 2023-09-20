@@ -1,5 +1,5 @@
 # Labo2
-## estudiante: Frank Wang Wu
+## Estudiante: Frank Wang Wu
 ## Carné: B57946
 
 /* Se sube aquí los siguientes script.sh de las tres partes de la primera sección Script y Procesos,
